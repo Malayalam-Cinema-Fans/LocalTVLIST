@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rupavahini" group-title="Local" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/rupavahini.png",Rupavahini
+https://charana-cf.rumex.lk/live/OpgmxjyZGoUQXJgO/576p.m3u8
+#EXTINF:-1 tvg-id="ITN" group-title="Local" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ducchq.png",ITN
+https://moblive.yuppcdn.net/transsd/smil:itn43.smil/chunklist_b596000.m3u8
+#EXTINF:-1 tvg-id="Sirasa TV" group-title="Local" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ucihva.png",Sirasa TV
+https://moblive.yuppcdn.net/transsd/smil:sirtv09.smil/chunklist_b596000.m3u8
+#EXTINF:-1 tvg-id="TV Derana" group-title="Local" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/derana.png",TV Derana
+https://moblive.yuppcdn.net/transhd2/smil:detv04.smil/chunklist_b596000.m3u8
+#EXTINF:-1 tvg-id="Charana TV" group-title="Local" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/djwqoh.png",Charana TV
+https://moblive.yuppcdn.net/transhd2/smil:chtv05.smil/chunklist_b596000.m3u8
+#EXTINF:-1 tvg-id="Swarnawahini" group-title="Local" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ddcjju.png",Swarnawahini
+https://moblive.yuppcdn.net/transsd/smil:swani06.smil/chunklist_b596000.m3u8
+#EXTINF:-1 tvg-id="Vasantham TV" group-title="Local" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ngfsik.png",Vasantham TV
+https://moblive.yuppcdn.net/trans1sd/smil:vatv07.smil/chunklist_b596000.m3u8
+#EXTINF:-1 tvg-id="Siyatha TV" group-title="Local" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/twchnq.png",Siyatha TV
+https://moblive.yuppcdn.net/transhd2/smil:siytv08.smil/chunklist_b596000.m3u8
+#EXTINF:-1 tvg-id="Shakthi TV" group-title="Local" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/dmikwb.png",Shakthi TV
+https://moblive.yuppcdn.net/transsd/smil:saktv10.smil/chunklist_b596000.m3u8
+#EXTINF:-1 tvg-id="TV 1" group-title="Local" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/vjtiwc.png",TV 1
+https://moblive.yuppcdn.net/trans1sd/smil:tv111.smil/chunklist_b596000.m3u8
+#EXTINF:-1 tvg-id="Supreme TV" group-title="Local" tvg-logo="https://tv.deshikajayantha.com/images/supmetv.png",Supreme TV
+https://moblive.yuppcdn.net/transsd/smil:tnl12.smil/chunklist_b596000.m3u8
+#EXTINF:-1 tvg-id="Nethra TV" group-title="Local" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/udbacm.png",Nethra TV
+https://moblive.yuppcdn.net/trans1sd/smil:nettv15.smil/chunklist_b596000.m3u8
+#EXTINF:-1 tvg-id="Hiru TV" group-title="Local" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/hiru-tv.png",Hiru TV
+https://moblive.yuppcdn.net/transhd2/smil:hitv17.smil/chunklist_b596000.m3u8
+#EXTINF:-1 tvg-id="Star Tamil" group-title="Local" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/vztqoe.png",Star Tamil
+https://moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/chunklist_b596000.m3u8
+#EXTINF:-1 tvg-id="Music TV" group-title="Entertainment" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/music-television.png",Music TV
+https://moblive.yuppcdn.net/trans1sd/smil:muptv14.smil/chunklist_b596000.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/Sky_Sports_Cricket_logo_2020.svg" group-title="Sports", Sky Sports Cricket
+https://002.fclplayer.net/live/csstream1/chunklist.m3u8?vidictid=204943866991&id=1001&pk=31884db1027e46dc208b4ae65d6789aacc3050517fa67bc81285d76989c8ee09
+#EXTINF:-1 tvg-id="StarSports1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Star_Sports_1_HD.png" group-title="Sports", Star Sports 1 HD
+https://002.fclplayer.net/live/csstream2/chunklist.m3u8?vidictid=204948697340&id=1002&pk=31884db1027e46dc208b4ae65d6789aacc3050517fa67bc81285d76989c8ee09
