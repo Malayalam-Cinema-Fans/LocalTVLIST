@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Rupavahini" group-title="Local" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/rupavahini.png",Rupavahini
-https://moblive.yuppcdn.net/transsd/smil:runi01.smil/chunklist_b596000.m3u8
+https://charana-cf.rumex.lk/live/OpgmxjyZGoUQXJgO/576p.m3u8
 #EXTINF:-1 tvg-id="ITN" group-title="Local" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ducchq.png",ITN
 https://moblive.yuppcdn.net/transsd/smil:itn43.smil/chunklist_b596000.m3u8
 #EXTINF:-1 tvg-id="Sirasa TV" group-title="Local" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ucihva.png",Sirasa TV
@@ -127,3 +127,4 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
+
