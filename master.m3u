@@ -7,5 +7,5 @@ https://charana-cf.rumex.lk/live/fgJBeMeotXpvORaE/576p.m3u8
 https://001.fclplayer.net/live/csstream1/chunklist.m3u8?vidictid=204931380544&id=1001&pk=8c9db5e6c07fd780570a612c3d9d0e7d487571d917723ff30138ecd5c7a27856
 #EXTINF:-1 tvg-id="StarSports1HD" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/130.png" group-title="Sports", Star Sports 1 HD
 https://002.fclplayer.net/live/csstream2/chunklist.m3u8?vidictid=204996846134&id=1002&pk=eb389666c97f0adf3a049d7ada0afbde4b42d35a4150787c74c26c0ee8516193
-#EXTINF:-1 tvg-id="StarSports1HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Sports", TEN 3 Hindi SD
-https://iptvsrilanka.malayalamcinemafans.workers.dev/?url=http%3A%2F%2F103.229.254.25%3A7001%2Fplay%2Fa087%2Ferror%2520code%3A%25201003
+#EXTINF:-1 tvg-id="StarSports1HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Sports", TEN 3 Hindi
+https://iptvsrilanka.malayalamcinemafans.workers.dev/?url=http://103.229.254.25:7001/play/a087/index.m3u8
