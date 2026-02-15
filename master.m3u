@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Rupavahini" group-title="Local" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png",Rupavahini
 https://charana-cf.rumex.lk/live/OpgmxjyZGoUQXJgO/576p.m3u8
-#EXTINF:-1 tvg-id="ITN" group-title="Local" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/004_200x200.png",ITN
+#EXTINF:-1 tvg-id="ITN" group-title="Local" tvg-logo="https://itn.lk/wp-content/uploads/2022/03/ITN-Logo.svg",ITN
 https://charana-cf.rumex.lk/live/fgJBeMeotXpvORaE/576p.m3u8
 #EXTINF:-1 tvg-id="Sirasa TV" group-title="Local" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/008.png",Sirasa TV
 https://charana-cf.rumex.lk/live/JlKbHLMYvvEFYvlu/576p.m3u8
