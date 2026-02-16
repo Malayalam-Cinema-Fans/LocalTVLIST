@@ -6,16 +6,16 @@ https://charana-cf.rumex.lk/live/OpgmxjyZGoUQXJgO/576p.m3u8
 #EXTINF:-1 tvg-id="ITN" group-title="Local" tvg-logo="https://itn.lk/wp-content/uploads/2022/03/ITN-Logo.svg",ITN
 https://charana-cf.rumex.lk/live/fgJBeMeotXpvORaE/576p.m3u8
 
-#EXTINF:-1 tvg-id="Sirasa" group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Sirasa_TV_Logo.png",Sirasa TV
+#EXTINF:-1 tvg-id="Sirasa" group-title="Local" tvg-logo="https://sirasatv.lk/assets/images/Sirasa_TV_Logo.png",Sirasa TV
 https://charana-cf.rumex.lk/live/JlKbHLMYvvEFYvlu/master.m3u8
 
-#EXTINF:-1 tvg-id="Hiru" group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3d/Hiru_TV_logo.png",Hiru TV
+#EXTINF:-1 tvg-id="Hiru" group-title="Local" tvg-logo="https://www.hirutv.lk/assets/images/logo.png",Hiru TV
 https://tv.hiruhost.com:1936/8012/8012/chunklist_w2040700097.m3u8
 
-#EXTINF:-1 tvg-id="Swarnawahini" group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Swarnavahini_logo.png",Swarnawahini
+#EXTINF:-1 tvg-id="Swarnawahini" group-title="Local" tvg-logo="https://www.swarnavahini.lk/Uploads/logo.png",Swarnawahini
 https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Siyatha" group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Siyatha_TV_logo.png",Siyatha TV
+#EXTINF:-1 tvg-id="Siyatha" group-title="Local" tvg-logo="https://siyathatv.lk/wp-content/themes/siyathatv-vol-008/images/siyathatv-logo.jpg",Siyatha TV
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv_low/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsCricket" group-title="Sports" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png",Sky Sports Cricket
@@ -24,19 +24,19 @@ https://001.fclplayer.net/live/csstream1/chunklist.m3u8?vidictid=204931380544&id
 #EXTINF:-1 tvg-id="StarSports1HD" group-title="Sports" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/130.png",Star Sports 1 HD
 https://002.fclplayer.net/live/csstream2/chunklist.m3u8?vidictid=204996846134&id=1002&pk=eb389666c97f0adf3a049d7ada0afbde4b42d35a4150787c74c26c0ee8516193
 
-#EXTINF:-1 tvg-id="SonyTen3Hindi" group-title="Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",TEN 3 Hindi
+#EXTINF:-1 tvg-id="SonyTen3Hindi" group-title="Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",TEN 3
 https://iptvsrilanka.malayalamcinemafans.workers.dev/?url=http://103.229.254.25:7001/play/a087/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySport2" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Sky_Sport_logo.png",Sky Sport 2
+#EXTINF:-1 tvg-id="SkySport2" group-title="Sports" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png",Sky Sport 2
 https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TSports" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/T_Sports_logo.png",T Sports
+#EXTINF:-1 tvg-id="TSports" group-title="Sports" tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg",T Sports
 https://tvsen7.aynascope.net/tsports-hd/tracks-v1a1/mono.ts.m3u8?e=1771232346&token=fd90343c3a3af08da1140a77a1107ee4&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
 
-#EXTINF:-1 tvg-id="CNN" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg",CNN
+#EXTINF:-1 tvg-id="CNN" group-title="News" tvg-logo="https://download.logo.wine/logo/CNN/CNN-Logo.wine.png",CNN
 https://tvsen6.aynascope.net/bbcnews/index.m3u8?e=1771232553&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d3a4419d07fa5efbed7a2709eaf599d3
 
-#EXTINF:-1 tvg-id="DW" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Deutsche_Welle_Logo.svg",DW
+#EXTINF:-1 tvg-id="DW" group-title="News" tvg-logo="https://cdn.brandfetch.io/idmo1FlMK2/w/800/h/455/theme/dark/logo.png",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng_logo.svg",Al Jazeera
