@@ -21,7 +21,7 @@ https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv_low/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsCricket" group-title="Sports" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png",Sky Sports Cricket
 https://001.fclplayer.net/live/csstream1/chunklist.m3u8?vidictid=204931380544&id=1001&pk=8c9db5e6c07fd780570a612c3d9d0e7d487571d917723ff30138ecd5c7a27856
 
-#EXTINF:-1 tvg-id="StarSports1HD" group-title="Sports" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/130.png",Star Sports 1 HD
+#EXTINF:-1 tvg-id="StarSports1HD" group-title="Sports" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/073.png",Star Sports 1 HD
 https://002.fclplayer.net/live/csstream2/chunklist.m3u8?vidictid=204996846134&id=1002&pk=eb389666c97f0adf3a049d7ada0afbde4b42d35a4150787c74c26c0ee8516193
 
 #EXTINF:-1 tvg-id="SonyTen3Hindi" group-title="Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",TEN 3
@@ -30,8 +30,20 @@ https://iptvsrilanka.malayalamcinemafans.workers.dev/?url=http://103.229.254.25:
 #EXTINF:-1 tvg-id="SkySport2" group-title="Sports" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png",Sky Sport 2
 https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TSports" group-title="Sports" tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg",T Sports
-https://tvsen7.aynascope.net/tsports-hd/tracks-v1a1/mono.ts.m3u8?e=1771232346&token=fd90343c3a3af08da1140a77a1107ee4&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
+#EXTINF:-1 tvg-id="TSports" group-title="Sports" tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg",T Sports HD
+https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsMain" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sports", Sky Sports Main
+https://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/XgKxo9R66u9F85htRxKHdg/1771844964/9585fdae92af45f113fdcc9f6c4ba442/1080p_stream.m3u8
+
+#EXTINF:-1 tvg-id="SkySports2" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="Sports", Sky Sports 2
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Star Sport 1 HD" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/073.png" group-title="Sports", Star Sport 1 HD
+https://edge2.roarzone.info:444/roarzone/edge2/star-sports-1/tracks-v1a1/mono.m3u8?token=448bc23c3d6b7ea6f56fe792576c760e28b57ad6-e5ff9c6c5e8f9e0bdcf729de83852037-1771249480-1771238680
+
+#EXTINF:-1 tvg-id="Star Sport 2 HD" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/074.png" group-title="Sports", Star Sport 2 HD
+https://edge2.roarzone.info:444/roarzone/edge2/star-sports-2/tracks-v1a1/mono.m3u8?token=3b53390ccfe6fd3be6aade2b493c1b72fe6c3b22-fb3fb477285e5c3ebe7305a0959ee6ef-1771249480-1771238680
 
 #EXTINF:-1 tvg-id="CNN" group-title="News" tvg-logo="https://download.logo.wine/logo/CNN/CNN-Logo.wine.png",CNN
 https://tvsen6.aynascope.net/bbcnews/index.m3u8?e=1771232553&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d3a4419d07fa5efbed7a2709eaf599d3
