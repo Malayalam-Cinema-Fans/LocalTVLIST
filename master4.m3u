@@ -159,7 +159,7 @@ https://edge2.roarzone.info:444/roarzone/edge3/zing/index.m3u8?token=be5a9b6b2c8
 #EXTINF:-1 group-title="music" tvg-logo="https://tvassets.roarzone.info/images/b4umusic.png",B4U Music
 https://edge2.roarzone.info:444/roarzone/edge3/b4u-music/index.m3u8?token=99be4a2f4338151b846fce41e38f6a95fbb642b9-b73cf848f14dbec9e191c2268e9748f6-1771328299-1771317499
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Willow_2023_stacked.svg/revision/latest?cb=20240927132511",Willow 2
+#EXTINF:-1 group-title="sports" tvg-logo="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/22514351-willow-tv-logo-1080x1080.png",Willow 2
 https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1771333726&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=e57d82312b89a8999cc235f452cfdecd
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sport
